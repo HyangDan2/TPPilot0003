@@ -20,3 +20,5 @@ by using result face.onnx file
 then use
 
 python main.py --model onnx --sources "path/to/your/file.jpg"
+
+yolov5s-face is created by using above pt files and YOLOv5s
